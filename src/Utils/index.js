@@ -1,0 +1,1 @@
+export const avatar = `https://www.w3schools.com/howto/img_avatar.png`
